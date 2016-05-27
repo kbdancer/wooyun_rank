@@ -3,6 +3,7 @@
 # code by 92ez.com
 
 import sqlite3
+import sys
 
 def get20Rank():
     try:
