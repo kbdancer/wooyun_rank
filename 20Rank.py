@@ -3,12 +3,6 @@
 # code by 92ez.com
 
 import sqlite3
-import Queue
-import time
-import json
-import sys
-import re
-import os
 
 def get20Rank():
     try:
