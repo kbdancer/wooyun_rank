@@ -24,6 +24,8 @@ def get20Rank():
             print 'author: '+row[5]
             print 'type: '+row[6]
             print 'rank: '+row[7]
+            print 'commit: '+row[8]
+            print 'publish: '+row[9]
 
         cu.close()
         cx.close()
