@@ -7,11 +7,8 @@ import subprocess
 import requests
 import sqlite3
 import Queue
-import time
-import json
 import sys
 import re
-import os
 
 reload(sys)
 sys.setdefaultencoding('utf8')
