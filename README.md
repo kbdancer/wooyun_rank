@@ -1,5 +1,6 @@
-# wooyun_rank
+## 脚本
 采集乌云已确认漏洞和已公开漏洞的状态、厂商、Rank等数据用于分析哪些是良心厂商
-## How to use
+## 使用
 <pre>python rank.py 100</pre>
-100 is thread
+## 说明
+纪念永远的乌云
